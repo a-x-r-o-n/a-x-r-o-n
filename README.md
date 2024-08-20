@@ -17,7 +17,7 @@
 # 📊 GitHub Stats:
 ![Language Used](https://github-readme-stats.vercel.app/api/top-langs/?username=a-x-r-o-n&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)</br>
 ![GitHub Graph](https://github-readme-stats.vercel.app/api?username=a-x-r-o-n&theme=vision-friendly-dark&include_all_commits=false&count_private=false)
-![GitHub Status](https://github-readme-streak-stats.herokuapp.com/?user=a-x-r-o-n&theme=vision-friendly-dark&hide_border=false&hide_border=true)<br/>
+![GitHub Status](https://github-readme-streak-stats.herokuapp.com/?user=a-x-r-o-n&theme=vision-friendly-dark&hide_border=true)<br/>
 ---
 [![](https://visitcount.itsvg.in/api?id=a-x-r-o-n&icon=4&color=12)](https://aaron-design.netlify.app)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

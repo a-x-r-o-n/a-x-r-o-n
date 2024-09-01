@@ -1,12 +1,6 @@
 # 💫 About Me:
 🔮 Crafting innovative digital experiences with a passion for design and development.</br>
 🌌 Immersed in the world of tech and creativity, bridging the gap between function and form.</br>
-🎨 Curating exceptional UI/UX, with a flair for elegant and user-centric designs.</br>
-🔐 Exploring the realms of cybersecurity, honing skills in penetration testing.</br>
-🧵 Weaving code into art, making the web a more beautiful place.</br>
-🌱 Nurturing a love for problem-solving, with an endless curiosity for learning.</br>
-💡 Channeling creativity into coding, turning boredom into brilliance.</br>
-🚀 Driven by a desire to innovate, always on the lookout for the next big idea.</br>
 
 
 ## 🌐 Socials:

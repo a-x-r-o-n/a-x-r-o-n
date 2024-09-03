@@ -1,6 +1,5 @@
 # 💫 About Me:
 🔮 Crafting innovative digital experiences with a passion for design and development.</br>
-🌌 Immersed in the world of tech and creativity, bridging the gap between function and form.</br>
 
 
 ## 🌐 Socials:

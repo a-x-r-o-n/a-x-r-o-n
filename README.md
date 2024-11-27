@@ -32,8 +32,7 @@
 
 
 # 📊 GitHub Stats:
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=a-x-r-o-n&theme=aura&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=a-x-r-o-n&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ![GitHub Graph](https://github-readme-stats.vercel.app/api?username=a-x-r-o-n&theme=aura&include_all_commits=false&count_private=false&hide_border=true)<br/>
 ![GitHub Status](https://github-readme-streak-stats.herokuapp.com/?user=a-x-r-o-n&theme=aura&hide_border=true)<br/>
 ![Language Used](https://github-readme-stats.vercel.app/api/top-langs/?username=a-x-r-o-n&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
